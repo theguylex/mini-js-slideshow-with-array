@@ -12,3 +12,13 @@ function nextSlide() {
 // updates the src attribute of the <img> element to the new image.
     document.getElementById("slider-image").src = images[currentIndex];
 }
+
+function prevSlide() {
+//"currentIndex - 1" decreases the index to move to the previous image.
+//"+ images.length" ensures that if the index is negative (e.g., when moving 
+// from the first image), it wraps around to the end of the array
+// "% images.length" makes sure that the index stays within the valid range 
+// of the array.
+    currentIndex = (currentIndex - 1 + images.length) % images.length;
+    document.getElementById("slider-image").src = images[currentIndex];
+}
