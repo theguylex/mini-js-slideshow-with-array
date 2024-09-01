@@ -84,7 +84,3 @@
 .slider-btn:nth-of-type(2) {
     right: 20px;
 }
-
-#slider-image {
-    transition: opacity 1s ease-in-out;
-}
