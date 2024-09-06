@@ -6,7 +6,7 @@ This project has the objective of having a photo slideshow in a hero-section's o
 where Clicking the next button changes the background photo to a different photo and vice versa for previous button 
 in their respective orders.
 
-*Create a skeleton page using HTML orthe necessary elements
+*Create a skeleton page using HTML for the necessary elements
 
 *Create hero-section in the HTML file
 
