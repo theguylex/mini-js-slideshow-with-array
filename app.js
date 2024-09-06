@@ -21,4 +21,4 @@ function prevSlide() {
 // of the array.
     currentIndex = (currentIndex - 1 + images.length) % images.length;
     document.getElementById("slider-image").src = images[currentIndex];
-}
+};
