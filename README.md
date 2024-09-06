@@ -7,10 +7,15 @@ where Clicking the next button changes the background photo to a different photo
 in their respective orders.
 
 *Create a skeleton page using HTML orthe necessary elements
+
 *Create hero-section in the HTML file
+
 *Style page using CSS
+
 *Equip the hero-section with an overlay
+
 *Create an array containing the required photos with javaScript
+
 *Create the functions for the next and previous slide buttons
 
 ## Screenshot of how it looks
